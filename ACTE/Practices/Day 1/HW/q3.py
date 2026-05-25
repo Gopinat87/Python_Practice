@@ -1,0 +1,8 @@
+name=input("Enter Your Name : ")
+college_name=input("Enter Your College name : ")
+cgpa=float(input("Enter Your CGPA : "))
+college_fees=int(input("Enter Your College fees : "))
+passedout=int(input("Paseed Out Year : "))
+company_name=input("Enter Your Company Name : ")
+salary=int(input("Enter Your Salary : "))
+print("Hi My Name is ",name,"I'm Completed My Graduated in ",college_name,"and My CGPA is ",cgpa,"My College fees is ",college_fees,"I'm Passedout in ",passedout,"I'm Now Working in ",company_name,"and My salary is ",salary,)

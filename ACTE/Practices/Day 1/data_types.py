@@ -1,0 +1,16 @@
+x=1
+y="hi"
+z=1.5
+a=True
+b=(1,2)
+d=[1,2]
+e={1:"Gopi","age":24}
+f={1,2,3,4}
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(a))
+print(type(b))
+print(type(d))
+print(type(e))
+print(type(f))
